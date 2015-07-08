@@ -1,0 +1,207 @@
+
+FL//ground_S floor_C
+BL//innovator_S building_C
+SL//concourse_S area_C
+LO//itpb_S
+CT//bangalore_S
+PN//560066_S
+SO//
+DR//106/107_S
+FL//1st_S floor_C
+RD//whitefield_S road_C
+LO//mahadevpura_S post_C
+CT//bangalore_S
+PN//560048_S
+SO//
+DR//no._S 57_C
+ST//defense_S colony_C
+SL//jeevan_S beema_C nagar_C
+RD//100_S ft_C road_C
+LO//indira_S nagar_C next_C to_C cafe_C coffee_C day_C
+CT//bangalore_S
+PN//560038_S
+SO//
+DR//5_S
+BL//priyanka_S house_C
+SL//hal_S 2nd_C stage_C
+LO//indiranagar_S
+RD//100_S ft_C road_C
+LM//opp_S barbeque_C nation_C
+CT//bangalore_S
+PN//560038_S
+SO//
+DR//37/2_S
+ST//chicago_S avenue_C
+RD//cunningham_S road_C
+CT//bangalore_S
+PN//560052_S
+SO//
+DR//55_S
+BL//divyashree_S towers_C
+RD//bannerghatta_S main_C road_C
+CT//bangalore_S
+PN//560029_S
+SO//
+SY//#_S
+DR//1197_S
+RD//24th._S main_C
+ST//22nd._S cross_C
+LM//near_S to_C parangipalya_C bus_C stop_C
+SL//hsr_S layout_C
+LO//sector_S 2_C
+CT//bangalore_S
+PN//560102_S
+SO//
+RD//no:5/1//drs80ft_S rd_C
+SL//2nd_S stage_C
+LO//chandra_S layout_C
+CT//bangalore_S
+LM//near_S canara_C bank_C
+PN//560040_S
+SO//
+DR//bf_S 40_C
+SL//sector-i_S
+LO//salt_S lake_C
+CT//kolkata_S
+PN//700064_S
+SO//
+DR//23/5_S
+RD//gariahat_S road_C
+CT//kolkata_S
+PN//700029_S
+SO//
+DR//30_S
+SY//&_S
+DR//36_S
+BL//gold_S field_C plaza_C
+LM//opposite_S wadia_C college_C
+LM//near_S bajaj_C showroom_C
+CT//pune_S
+PN//411001_S
+SO//
+BL//prasad's_S multiplex_C
+FL//1st_S floor_C
+LM//beside_S ntr_C gardens_C
+LO//khairatabad_S
+SO//
+DR//2-11-30/6_S
+RD//s_S p_C road_C
+LO//begumpet_S
+CT//secunderabad_S
+SO//
+DR//54-15-1_S
+RD//ring_S road_C
+LO//loyola_S gardens_C
+CT//vijayawada_S
+SO//
+DR//g-1_S
+BL//atr_S towers_C
+RD//harbour_S park_S road_C
+CT//vishakhapatanam_S
+SO//
+DR//no._S 18_C
+RD//mahatma_S gandhi_C road_C
+SL//shastri_S nagar_C
+LM//nr._S adyar_C bus_C depot_C
+LO//adyar_S
+CT//chennai_S
+PN//600041_S
+SE//tamil_S nadu_C
+SO//
+DR//225_S
+RD//anna_S salai_C
+LM//opp._S spencers_C plaza_C
+CT//chennai_S
+PN//600002_S
+SE//tamil_S nadu_C
+SO//
+DR//no._S
+NM//72_S
+ST//4th_S avenue_C
+LO//ashok_S nagar_C
+LM//opp_S to_C jawahar_C vidyalaya_C school_C
+CT//chennai_S
+PN//600083_S
+SE//tamil_S nadu_C
+SO//
+DR//7-132_S
+NM//j_S p_C
+RD//road_S
+NM//venkatrajunagar_S
+SL//west_S
+NM//godavari_S
+SL//district_S
+LO//chinnamiram_S
+PN//534204_S
+SE//andhra_S pradesh_C
+SO//
+DR//10-199_S
+NM//tmr_S
+BL//tower_S
+NM//gandhi_S
+RD//road_S
+CT//chittoor_S
+PN//517001_S
+SE//andhra_S pradesh_C
+SO//
+NM//nilkanth_S
+BL//plaza_S
+LM//opposite_S
+NM//madhupur_S
+LM//market_S
+NM//police_S commissioner_C
+RD//road_S
+LO//shahibaug_S
+CT//ahmedabad_S
+PN//380004_S
+SE//gujarat_S
+SO//
+DR//no._S
+NM//42/1_S thatchur_C
+RD//road_S
+CT//arni_S
+PN//632301_S
+SE//tamil_S nadu_C
+SO//
+DR//no._S
+NM//199_S nehru_C
+ST//bazzar_S road_C
+NM//poovai_S
+RD//road_S
+CT//chennai_S
+PN//600054_S
+SE//tamil_S nadu_C
+SO//
+FL//ground_S floor_C
+NM//shreyas_S
+BL//western_S wing_C
+NM//chamiers_S
+RD//road_S
+LO//teynampet_S
+CT//chennai_S
+PN//600018_S
+SE//tamil_S nadu_C
+SO//
+NM//192_S
+FL//ground_S floor_C
+NM//karumuthu_S nilyam_C
+LO//anna_S salai_C
+CT//chennai_S
+PN//600002_S
+SO//
+DR//no_S
+NM//144_S
+ST//moore_S street_C
+LO//george_S town_C
+CT//chennai_S
+PN//600001_S
+SE//tamil_S nadu_C
+SO//
+DR//no:_S
+NM//351_S
+RD//avvai_S shanmugam_C road_C
+LO//gopalapuram_S
+CT//chennai_S
+PN//600086_S
+SE//tamil_S nadu_C
+SO//

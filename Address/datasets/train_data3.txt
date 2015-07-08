@@ -1,0 +1,207 @@
+FL//ground floor
+BL//innovator building
+SL//concourse area
+LO//itpb
+CT//bangalore
+PN//560066
+SO//
+DR//106/107
+FL//1st floor
+RD//whitefield road
+LO//mahadevpura post
+CT//bangalore
+PN//560048
+SO//
+DR//no. 57
+ST//defense colony
+SL//jeevan beema nagar
+RD//100 ft road
+LO//indira nagar
+LM//next to cafe coffee day
+CT//bangalore
+PN//560038
+SO//
+DR//5
+BL//priyanka house
+SL//hal 2nd stage
+LO//indiranagar
+RD//100 ft road
+LM//opp barbeque nation
+CT//bangalore
+PN//560038
+SO// 
+DR//37/2
+ST//chicago avenue
+RD//cunningham road
+CT//bangalore
+PN//560052
+SO//
+DR//55
+BL//divyashree towers
+RD//bannerghatta main road
+CT//bangalore
+PN//560029
+SO//
+SY//#
+DR//1197
+RD//24th. main
+ST//22nd. cross
+LM//near to parangipalya bus stop
+SL//hsr layout
+LO//sector 2
+CT//bangalore
+PN//560102
+SO//
+RD//no:5/1//drs80ft rd
+SL//2nd stage
+LO//chandra layout
+CT//bangalore
+LM//near canara bank
+PN//560040
+SO//
+DR//bf 40
+SL//sector-i
+LO//salt lake
+CT//kolkata
+PN//700064
+SO//
+DR//23/5
+RD//gariahat road
+CT//kolkata
+PN//700029
+SO//
+DR//30
+SY//&
+DR//36
+BL//gold field plaza
+LM//opposite wadia college
+LM//near bajaj showroom
+CT//pune
+PN//411001
+SO//
+BL//prasad's multiplex
+FL//1st floor
+LM//beside ntr gardens
+LO//khairatabad
+SO//
+DR//2-11-30/6
+RD//s p road
+LO//begumpet
+CT//secunderabad
+SO//
+DR//54-15-1
+RD//ring road
+LO//loyola gardens
+CT//vijayawada
+SO//
+DR//g-1
+BL//atr towers
+RD//harbour park road
+CT//vishakhapatanam
+SO//
+DR//no. 18
+RD//mahatma gandhi road
+SL//shastri nagar
+LM//nr. adyar bus depot
+LO//adyar
+CT//chennai
+PN//600041
+SE//tamil nadu
+SO//
+DR//225
+NM//
+RD//anna salai
+LM//opp. spencers plaza
+CT//chennai
+PN//600002
+SE//tamil nadu
+SO//
+DR//no.
+NM//72
+ST//4th avenue
+LO//ashok nagar
+LM//opp to jawahar vidyalaya school
+CT//chennai
+PN//600083
+SE//tamil nadu
+SO//
+DR//7-132
+RD//j p road
+NM//venkatrajunagar
+SL//west
+NM//godavari
+SL//district
+LO//chinnamiram
+PN//534204
+SE//andhra pradesh
+SO//
+DR//10-199
+NM//tmr
+BL//tower
+NM//gandhi
+RD//road
+CT//chittoor
+PN//517001
+SE//andhra pradesh
+SO//
+NM//nilkanth
+BL//plaza
+LM//opposite
+NM//madhupur
+LM//market
+NM//police commissioner
+RD//road
+LO//shahibaug
+CT//ahmedabad
+PN//380004
+SE//gujarat
+SO//
+DR//no.
+NM//42/1 thatchur
+RD//road
+CT//arni
+PN//632301
+SE//tamil nadu
+SO//
+DR//no.
+NM//199 nehru
+ST//bazzar road
+NM//poovai
+RD//road
+CT//chennai
+PN//600054
+SE//tamil nadu
+SO//
+FL//ground floor
+NM//shreyas
+BL//western wing
+NM//chamiers
+RD//road
+LO//teynampet
+CT//chennai
+PN//600018
+SE//tamil nadu
+SO//
+NM//192
+FL//ground floor
+NM//karumuthu nilyam
+LO//anna salai
+CT//chennai
+PN//600002
+SO//
+DR//no
+NM//144
+ST//moore street
+LO//george town
+CT//chennai
+PN//600001
+SE//tamil nadu
+SO//
+DR//no:
+NM//351
+RD//avvai shanmugam road
+LO//gopalapuram
+CT//chennai
+PN//600086
+SE//tamil nadu
+SO// 

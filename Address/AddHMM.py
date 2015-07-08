@@ -3,9 +3,9 @@ from collections import Counter
 
 class OuterHMM():
 	def __init__(self):
-		reEle = re.compile(r"\/\/([A-Z]{2})")
-		reSym = re.compile(r"^(.+)//", re.MULTILINE)
-		with open('datasets/train_data2.txt', 'r') as trfile:
+		reEle = re.compile(r"([A-Z]{2})\/\/")
+		reSym = re.compile(r"\/\/(.+)$", re.MULTILINE)
+		with open('datasets/train_data3.txt', 'r') as trfile:
 			self.data = trfile.read()
 		self.elelist = re.findall(reEle, self.data)
 		self.symlist = re.findall(reSym, self.data)
@@ -16,8 +16,9 @@ class OuterHMM():
 		self.eles = self.elecount.keys()
 		self.syms = self.symcount.keys()
 
+		print self.elecount
 #		self.build_transition()
-		self.build_emission()
+#		self.build_emission()
 
 	def build_transition(self):
 		ele_seq = " ".join(self.elelist)
@@ -36,8 +37,8 @@ class OuterHMM():
 		for j in self.eles:
 			self.em_matrix[j] = {}
 			for k in self.syms:
-				N = self.data.count(k+"//"+j) #+ 1
-				D = self.data.count(j) #+ len(self.syms)
+				N = self.data.count(j+"//"+k) + 1
+				D = self.data.count(j) + len(self.syms)
 				self.em_matrix[j][k] = N/float(D)
 		print self.em_matrix
 

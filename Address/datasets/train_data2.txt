@@ -110,10 +110,10 @@ Lake//LOC
 Kolkata//CTS
 700064//PN
 //SO
-23/5
-Gariahat
-Road
-Kolkata
+23/5//DRS
+Gariahat//RDS
+Road//RDC
+Kolkata//CTS
 700029//PN
 //SO
 30//DRS
@@ -303,7 +303,6 @@ Avvai//NMS
 Shanmugam//NMC
 Road//RDC
 Gopalapuram//LOS
-,/,
 Chennai//CTS
 600086//PN
 Tamil//SES
