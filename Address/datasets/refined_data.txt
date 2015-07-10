@@ -1,0 +1,36 @@
+>//SR ground//FLS floor//FLC innovator//BLS building//BLC concourse//SLS area//SLC itpb//LOS bangalore//CTS 560066//PN .//SO
+>//SR 106/107//DRS 1st//FLS floor//FLC whitefield//RDS road//RDC mahadevpura//LOS post//LOC bangalore//CTS 560048//PN .//SO
+>//SR no.//DRS 57//DRC defense//STS colony//STC jeevan//SLS beema//SLC nagar//SLC 100//RDS ft//RDC road//RDC indira//LOS nagar//LOC next//LMS to//LMC cafe//LMC coffee//LMC day//LMC bangalore//CTS 560038//PN .//SO
+>//SR 5//DRS priyanka//BLS house//BLC hal//SLS 2nd//SLC stage//SLC indiranagar//LOS 100//RDS ft//RDC road//RDC opp//LMS barbeque//LMC nation//LMC bangalore//CTS 560038//PN .//SO
+>//SR .//SO
+>//SR 37/2//DRS chicago//STS avenue//STC cunningham//RDS road//RDC bangalore//CTS 560052//PN .//SO
+>//SR 55//DRS divyashree//BLS towers//BLC bannerghatta//RDS main//RDC road//RDC bangalore//CTS 560029//PN .//SO
+>//SR #//DRS 1197//DRC 24th//RDS main//RDC 22nd//STS cross//STC near//LMS to//LMC parangipalya//LMC bus//LMC stop//LMC hsr//SLS layout//SLC sector//LOS 2//LOC bangalore//CTS 560102//PN .//SO
+>//SR no:5/1//DRS 80//RDS ft//RDC rd//RDC 2nd//SLS stage//SLC chandra//LOS layout//LOC bangalore//CTS near//LMS canara//LMC bank//LMC 560040//PN .//SO
+>//SR bf//DRS 40//DRC sector-i//SLS salt//LOS lake//LOC kolkata//CTS 700064//PN .//SO
+>//SR 23/5//DRS gariahat//RDS road//RDC Kolkata//CTS 700029//PN .//SO
+>//SR 30//DRS &//DRC 36//DRC gold//BLS field//BLC plaza//BLC opposite//LMS wadia//LMC college//LMC near//LMS bajaj//LMC showroom//LMC pune//CTS 411001//PN .//SO
+>//SR prasad's//BLS multiplex//BLC 1st//FLS floor//FLC beside//LMS ntr//LMC gardens//LMC khairatabad//LOS .//SO
+>//SR 2-11-30/6//DRS s//RDS p//RDC road//RDC begumpet//LOS secunderabad//CTS .//SO
+>//SR 54-15-1//DRS ring//RDS road//RDC loyola//LOS gardens//LOC vijayawada//CTS .//SO
+>//SR g-1//DRS atr//BLS towers//BLC harbour//RDS park//RDC road//RDC vishakhapatanam//CTS .//SO
+>//SR no.18//DRS mahatma//RDS gandhi//RDC road//RDC shastri//SLS nagar//SLC nr.//LMS adyar//LMC bus//LMC depot//LMC adyar//LOS chennai//CTS 600041//PN tamil//SES nadu//SEC .//SO
+>//SR 225//DRS anna//RDS salai//RDC opp//LMS spencers//LMS plaza//LMC chennai//CTS 600002//PN tamil//SES nadu//SEC .//SO
+>//SR no//DRS 72//DRC 4//STS th//STC avenue//STC ashok//LOS nagar//LOC opp//LMS to//LMC jawahar//LMS vidyalaya//LMC school//LMC chennai//CTS 600083//PN tamil//SES nadu//SEC .//SO
+>//SR 7-132//DRS j//DRS p//RDC road//RDC venkatrajunagar//LOS chinnamiram//CTS 534204//PN andhra//SES pradesh//SEC .//SO
+>//SR 10-199//DRS tmr//BLS tower//BLC gandhi//RDS road//RDC chittoor//CTS 517001//PN andhra//SES pradesh//SEC .//SO
+>//SR nilkanth//BLS plaza//BLC opposite//LMS madhupur//LMS market//LMC police//RDS commissioner//RDC road//RDC shahibaug//LOS ahmedabad//CTS 380004//PN gujarat//SES .//SO
+>//SR no.42/1//DRSS thatchur//RDS road//RDC arni//CTS 632301//PN tamil//SES nadu//SEC .//SO
+>//SR no.199//DRS nehru//STS bazzar//STC road//STC poovai//RDS road//RDC chennai//CTS 600054//PN tamil//SES nadu//SEC .//SO
+>//SR ground//FLS floor//FLC shreyas//BLS western//BLC wing//BLC chamiers//RDS road//RDC teynampet//LOS chennai//CTS 600018//PN tamil//SES nadu//SEC .//SO
+>//SR 192//DRS ground//FLS floor//FLC karumuthu//BLS nilyam//BLC anna//LOS salai//LOC chennai//CTS 600002//PN .//SO
+>//SR no.144//DRS moore//STS street//STC george//LOS town//LOC chennai//CTS 600001//PN tamil//SES nadu//SEC .//SO
+>//SR no:351//DRS avvai//RDS shanmugam//RDC road//RDC gopalapuram//LOS chennai//CTS 600086//PN tamil//SES nadu//SEC .//SO
+>//SR 64//DRS ///DRC 103//DRC q//BLS block//BLC 3//RDS rd//RDC avenue//RDC annanagar//LOS chennai//CTS 600040//PN .//SO
+>//SR no.28//DRS rajakilpakkam//RDS main//RDC road//RDC gandhi//SLS nagar//SLC madambakkam//LOS chennai//CTS tamil//SES nadu//SEC 600073//PN .//SO
+>//SR perundurai//STS road//STC 5/1//DRS neela//BLS complex//BLC paarinagar//SLS corner//SLC erode//CTS tamil//SES nadu//SEC 638011//PN .//SO
+>//SR srinivasanagar//STS bank//STC colony//STC DNo:54-15-13//DRS bsr//BLS residency//BLC vijayawada//CTS andhra//SES pradesh//SEC 520008//PN .//SO
+>//SR 260//DRS avarampalayam//RDS road//RDC new//LOS siddhapudur//LOC coimbatore//CTS tamil//SES nadu//SEC 641044//PN .//SO
+>//SR 6d//DRS gokulam//STS colony//STC west//LOS mambalam//LOC chennai//CTS 600033//PN
+>//SR kowdiar//LOS ground//FLS floor//FLC nackolakal//BLS chambers//BLC thiruvananthapuram//CTS kerala//SES 695003//PN
+ground//FLS floor//FLC eureka//BLS towers//BLC mindspace//RDS link//RDC road//RDC malad//LOS (W)//LOC mumbai//CTS maharashtra//SES 400064//PN
